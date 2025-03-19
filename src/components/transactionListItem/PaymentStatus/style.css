@@ -1,0 +1,21 @@
+.payment-status {
+  flex: 1;
+  padding: 1px;
+  background: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.fa-check {
+  color: #ddd;
+  background-color: #333;
+  border-radius: 50%;
+}
+.check-icon {
+  text-align: right;
+  margin: 0 10px;
+  padding: 0;
+  font-size: 3.5em;
+  color: green;
+}

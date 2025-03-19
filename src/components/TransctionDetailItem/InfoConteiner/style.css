@@ -1,0 +1,34 @@
+.info-conteiner {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  width: 320px;
+}
+
+.detail-status {
+  font-weight: 600;
+  color: #000;
+  text-align: left;
+}
+
+.detail-description {
+  color: #8e8e93;
+  margin-top: -5px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+.divider {
+  border: 0.5px solid #e0e0e0;
+  margin-bottom: 10px;
+}
+
+.transaction-total {
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+}
+
+.transaction-amount {
+  color: #000;
+}

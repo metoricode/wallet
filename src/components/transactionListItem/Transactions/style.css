@@ -1,0 +1,48 @@
+.latest-transactions {
+  text-align: left;
+  margin: 40px 0 5px 0;
+}
+.transactions-list {
+  background-color: white;
+  border-radius: 10px;
+  padding: 0 10px;
+}
+.transaction-item {
+  display: flex;
+  width: 100%;
+  gap: 4px;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+.bg-icon {
+  background: grey;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+.trans-conteiner {
+  gap: 4px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.trans-name-amount {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  width: 100%;
+}
+.trans-name {
+  margin: 0;
+  font-weight: bold;
+}
+.trans-description {
+  margin: 0;
+  font-size: 0.9em;
+  text-align: left;
+  font-weight: bold;
+}
+.trans-detail {
+  font-size: 20px;
+  text-decoration: none;
+  margin-left: 10px;
+}

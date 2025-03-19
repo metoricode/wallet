@@ -1,0 +1,42 @@
+.wallet-container {
+  padding: 10px;
+}
+
+.balance-section {
+  display: flex;
+  gap: 10px;
+}
+
+.text {
+  text-align: left;
+  margin: 5px 10px;
+}
+
+.tcolor1 {
+  color: #111;
+}
+.tcolor2 {
+  color: #222;
+}
+.tcolor3 {
+  color: #333;
+}
+.tcolor4 {
+  color: #444;
+}
+
+.tcolor5 {
+  color: #555;
+}
+.tcolor6 {
+  color: #666;
+}
+.tcolor7 {
+  color: #777;
+}
+.tcolor8 {
+  color: #888;
+}
+.tcolor9 {
+  color: #999;
+}
